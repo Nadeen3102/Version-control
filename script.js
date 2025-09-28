@@ -1,0 +1,5 @@
+click(
+  () => {
+    alert('hello')
+  }
+)
